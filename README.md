@@ -45,8 +45,6 @@ This project demonstrates the use of modern RAG techniques combining vector sear
 - Provides transparency with source citations.
 - Demonstrates practical application of RAG — a technique widely used in enterprise QA systems.
 
----
-
 ## Screenshot
 
 ![Dashboard](https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Photo1.png)
