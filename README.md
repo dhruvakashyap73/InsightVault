@@ -37,7 +37,7 @@ This project demonstrates the use of modern RAG techniques combining vector sear
   
 ## System Architecture
 
-(https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Photo4.png)
+![System Architecture](https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Photo4.png)
 
 ## Why Use InsightVault?
 - Handles longer or multiple documents better than plain LLM input by indexing and retrieving only relevant parts.
