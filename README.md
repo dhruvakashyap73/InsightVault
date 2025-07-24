@@ -34,10 +34,20 @@ This project demonstrates the use of modern RAG techniques combining vector sear
    - Users type a natural language question.
    - Relevant chunks are retrieved from FAISS via semantic similarity.
    - Retrieved context is passed to an OpenAI language model to generate an answer, with source references.
+  
+## System Architecture
+
+(https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Photo4.png)
 
 ## Why Use InsightVault?
 - Handles longer or multiple documents better than plain LLM input by indexing and retrieving only relevant parts.
 - Reusable index saves time and cost for repeated queries.
 - Provides transparency with source citations.
 - Demonstrates practical application of RAG — a technique widely used in enterprise QA systems.
+
+---
+
+## Screenshot
+
+![Dashboard](https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Photo1.png)
 
