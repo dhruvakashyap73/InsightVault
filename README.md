@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Logo-InsightVault.png" alt="Logo" width="180" height="180">
+  <img src="https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Logo-InsightVault.png" alt="Logo" width="220" height="220">
 </p>
 
 <h3 align="center"><strong>InsightVault: Unlock Answers from Articles</strong></h3>
