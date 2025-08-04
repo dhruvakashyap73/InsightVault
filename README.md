@@ -1,4 +1,8 @@
-# 🗝️ InsightVault: Unlock Answers from Articles
+<p align="center">
+  <img src="https://github.com/dhruvakashyap73/InsightVault/blob/main/Photos/Logo-InsightVault.png" alt="Logo" width="120" height="120">
+</p>
+
+<h5 align="center"><strong>InsightVault: Unlock Answers from Articles</strong></h5>
 
 ## Overview
 InsightVault is a Retrieval-Augmented Generation (RAG) based research assistant for news articles. It helps users query multiple long-form articles and get meaningful, source-attributed answers. Unlike simply pasting text into a language model, InsightVault indexes your articles efficiently and retrieves only the most relevant information, ensuring scalability, accuracy, and explainability.
